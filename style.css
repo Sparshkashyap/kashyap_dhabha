@@ -278,6 +278,12 @@ body{
         position: relative;
         left:40vw;
     }
+
+    .chai_cup:hover{
+
+        transform:scale(1.1);
+       
+    }
     
     
 
